@@ -20,6 +20,6 @@ Solve real-world HTML, CSS and JavaScript challenges whilst working to professio
 
 ### 1 newbie
 
-## qr-code-component-main
+#### qr-code-component-main
 - URL repository: [github.com/atorrea/frontendmentor/tree/main/qr-code-component-main](https://github.com/atorrea/frontendmentor/tree/main/qr-code-component-main).
 - URL web: [atorrea.github.io/frontendmentor/qr-code-component-main/](https://atorrea.github.io/frontendmentor/qr-code-component-main/).
