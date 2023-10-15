@@ -22,7 +22,7 @@ Screenshot of my solution.
 
 ### Links
 
-- GitHub Solution URL: [Add solution URL here](https://your-solution-url.com)
+- GitHub Solution URL: [atorrea.github.io/frontendmentor/qr-code-component-main](https://atorrea.github.io/frontendmentor/qr-code-component-main/)
 - Live Site Solution URL: [albertodelatorreatrio.com/projects/frontend/frontendmentor/qr-code-component](https://albertodelatorreatrio.com/projects/frontend/frontendmentor/qr-code-component)
 
 ## My process
