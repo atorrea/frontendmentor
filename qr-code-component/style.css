@@ -47,12 +47,11 @@ img {
 }
 .card img {
     border-radius: 1rem;
-    margin-bottom: 0.8rem;
 }
 .card h3 {
     color: var(--color-dark-blue);
     text-align: center;
-    margin: 1.6rem 0rem;
+    margin: 2.4rem 0rem 1.6rem 0rem;
 }
 .card p {
     color: var(--color-grayish-blue);
