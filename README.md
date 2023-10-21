@@ -20,7 +20,12 @@ Solve real-world HTML, CSS and JavaScript challenges whilst working to professio
 
 ### 1 newbie
 
-#### qr-code-component-main
+#### qr-code-component
 
 - URL repository: [github.com/atorrea/frontendmentor/tree/main/qr-code-component](https://github.com/atorrea/frontendmentor/tree/main/qr-code-component).
 - URL web: [atorrea.github.io/frontendmentor/qr-code-component/](https://atorrea.github.io/frontendmentor/qr-code-component/).
+
+#### nft-preview-card-component
+
+- URL repository: [github.com/atorrea/frontendmentor/tree/main/nft-preview-card-component](https://github.com/atorrea/frontendmentor/tree/main/nft-preview-card-component).
+- URL web: [atorrea.github.io/frontendmentor/nft-preview-card-component/](https://atorrea.github.io/frontendmentor/nft-preview-card-component/).

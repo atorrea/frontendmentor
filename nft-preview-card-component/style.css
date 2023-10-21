@@ -115,6 +115,8 @@ a:hover {
     align-items: center;
     height: 6.5rem;
     gap: 1.5rem;
+    font-size: 1.6rem;
+    font-weight: 400;
 }
 .author img {
     height: 3.3rem;
