@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+:root {
+    --color-primary-soft-blue: hsl(215, 51%, 70%);
+    --color-primary-cyan: hsl(178, 100%, 50%);
+    --color-primary-cyan-transparent: hsl(178, 100%, 50%, 0.5);
+    --color-neutral-very-dark-blue-main-bg: hsl(217, 54%, 11%);
+    --color-neutral-very-dark-blue-card-bg: hsl(216, 50%, 16%);
+    --color-neutral-very-dark-blue-line: hsl(215, 32%, 27%);
+    --color-neutral-white: hsl(0, 0%, 100%);
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* 1REM = 10px */
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+body {
+    background-color: var(--color-neutral-very-dark-blue-main-bg);
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.8rem;
+    margin: 0rem;
+    display: flex;
+    justify-content: center;
+}
+
+/* Globals */
+h3 {
+    font-size: 2.2rem;
+    font-weight: 600;
+}
+img {
+    max-width: 100%;
+    display: block;
+    object-fit: cover;
+}
+a {
+    text-decoration: none;
+    color: var(--color-neutral-white);
+}
+a:hover {
+    color: var(--color-primary-cyan)
+}
+
+/* Card */
+.card {
+    background-color: var(--color-neutral-very-dark-blue-card-bg);
+    border-radius: 1.5rem;
+    max-width: 35rem;
+    margin: 15.2rem 2.4rem;
+    padding: 2.4rem 2.4rem 1.6rem 2.4rem;
+}
+.card > a {
+    display: block;
+    position: relative;
+}
+.card > a > img {
+    border-radius: 0.8rem;
+    margin-bottom: 2.4rem;
+}
+.overlay {
+    position: absolute;
+    background: var(--color-primary-cyan-transparent);
+    opacity: 0;
+    inset: 0;
+    transition: opacity .3s ease;
+    border-radius: 0.8rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card > a:hover .overlay {
+    opacity: 1;
+}
+.card h3 {
+    color: var(--color-neutral-white);
+    margin: 0;
+    margin-bottom: 1.6rem;
+}
+.card p {
+    color: var(--color-primary-soft-blue);
+    margin: 0;
+    margin-bottom: 2.4rem;
+    line-height: 2.6rem;
+}
+.eth-time {
+    display: flex;
+    justify-content: space-between;
+    height: 2rem;
+    font-size: 1.6rem;
+    margin-bottom: 2.4rem;
+}
+.eth {
+    display: flex;
+    gap: 0.5rem;
+}
+.eth span {
+    color: var(--color-primary-cyan);
+    display: block;
+    font-weight: 600;
+}
+.time {
+    display: flex;
+    gap: 0.5rem;
+}
+.time span {
+    color: var(--color-primary-soft-blue);
+    display: block;
+}
+.author {
+    border-top: 1px solid var(--color-neutral-very-dark-blue-line);
+    display: flex;
+    align-items: center;
+    height: 6.5rem;
+    gap: 1.5rem;
+}
+.author img {
+    height: 3.3rem;
+    width: 3.3rem;
+    border: 1px solid var(--color-neutral-white);
+    border-radius: 50%;
+}
+.author p {
+    display: block;
+    margin: 0;
+}
