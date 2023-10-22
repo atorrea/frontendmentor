@@ -97,7 +97,7 @@ main {
     }
 }
 .card .image {
-    background-image: url(./images/image-product-mobile.jpg);
+    background: url(./images/image-product-mobile.jpg), lightgray 0px 0px / 100% 100% no-repeat;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -107,7 +107,7 @@ main {
 }
 @media (min-width: 768px) {
     .card .image {
-        background-image: url(./images/image-product-desktop.jpg);
+        background: url(./images/image-product-desktop.jpg), lightgray 0px 0px / 100% 100% no-repeat;
         background-repeat: no-repeat;
         background-size: cover;
         background-position: center center;
