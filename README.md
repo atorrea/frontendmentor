@@ -29,3 +29,8 @@ Solve real-world HTML, CSS and JavaScript challenges whilst working to professio
 
 - URL repository: [github.com/atorrea/frontendmentor/tree/main/nft-preview-card-component](https://github.com/atorrea/frontendmentor/tree/main/nft-preview-card-component).
 - URL web: [atorrea.github.io/frontendmentor/nft-preview-card-component/](https://atorrea.github.io/frontendmentor/nft-preview-card-component/).
+
+#### product-preview-card-component
+
+- URL repository: [github.com/atorrea/frontendmentor/tree/main/product-preview-card-component](https://github.com/atorrea/frontendmentor/tree/main/product-preview-card-component).
+- URL web: [atorrea.github.io/frontendmentor/product-preview-card-component/](https://atorrea.github.io/frontendmentor/product-preview-card-component/).
