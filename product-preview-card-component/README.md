@@ -22,8 +22,8 @@ Screenshot of my solution.
 
 ### Links
 
-- GitHub Solution URL: [atorrea.github.io/frontendmentor/](https://atorrea.github.io/frontendmentor/qr-code-component/)[product-preview-card-component](https://github.com/atorrea/frontendmentor/tree/main/product-preview-card-component)
-- Live Site Solution URL: [albertodelatorreatrio.com/projects/frontend/frontendmentor/](https://albertodelatorreatrio.com/projects/frontend/frontendmentor/qr-code-component)[product-preview-card-component](https://github.com/atorrea/frontendmentor/tree/main/product-preview-card-component)
+- GitHub Solution URL: [atorrea.github.io/frontendmentor/product-preview-card-component](https://atorrea.github.io/frontendmentor/product-preview-card-component/)
+- Live Site Solution URL: [albertodelatorreatrio.com/projects/frontend/frontendmentor/product-preview-card-component](https://albertodelatorreatrio.com/projects/frontend/frontendmentor/product-preview-card-component)
 
 ## My process
 
