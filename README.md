@@ -34,3 +34,8 @@ Solve real-world HTML, CSS and JavaScript challenges whilst working to professio
 
 - URL repository: [github.com/atorrea/frontendmentor/tree/main/product-preview-card-component](https://github.com/atorrea/frontendmentor/tree/main/product-preview-card-component).
 - URL web: [atorrea.github.io/frontendmentor/product-preview-card-component/](https://atorrea.github.io/frontendmentor/product-preview-card-component/).
+
+#### order-summary-component
+
+- URL repository: [github.com/atorrea/frontendmentor/tree/main/order-summary-component](https://github.com/atorrea/frontendmentor/tree/main/order-summary-component).
+- URL web: [atorrea.github.io/frontendmentor/order-summary-component](https://atorrea.github.io/frontendmentor/order-summary-component/)
